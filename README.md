@@ -10,4 +10,4 @@
 
 5) Otestujte kooperativní aspekty hry a proveďte vyhodnocení uživatelského rozhraní.
 
-6)Prezentujte Vaše výsledky formou plakátu a krátkého videa.
+6) Prezentujte Vaše výsledky formou plakátu a krátkého videa.
