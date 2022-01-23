@@ -1,5 +1,7 @@
 # Bakalářská práce
 
+Název: Kooperativní hra s dualitou času a prostoru
+
 1) Prozkoumejte problematiku kooperativních her, jejich mechanik a uživatelských rozhraní.
 
 2) Seznamte se s herním enginem Unity a jeho využitím v rámci vývoje kooperativních her.
